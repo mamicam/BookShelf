@@ -1,0 +1,15 @@
+/shelf/
+/workspace.xml
+.idea/artifacts
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/modules.xml
+.idea/*.iml
+.idea/modules
+.idea/httpRequest
+*.iml
+*.ipr
+*.class
+*.log
+*.jar
+hs_err_pid*
